@@ -6,7 +6,10 @@
 
   <h2>Industrial Copper Modeling</h2>
 
-  <img src="[https://github.com/username/repository-name/blob/main/path-to-your-image/image.png](https://github.com/Gowthame123/Industrial-Copper-Modeling/blob/main/Screenshot%202024-08-19%20205453.png)" alt="Description of Image" width="500"/>
+![Description of Image](https://github.com/Gowthame123/Industrial-Copper-Modeling/blob/main/Screenshot%202024-08-19%20205453.png)
+
+![Description of Image](https://github.com/Gowthame123/Industrial-Copper-Modeling/blob/main/Screenshot%202024-08-19%20205611.png)
+
 
 
   <p><strong>Skills Acquired:</strong> Python Scripting, Data Preprocessing, EDA, Streamlit</p>
