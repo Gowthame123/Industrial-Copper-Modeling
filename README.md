@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Industrial Copper Modeling</title>
 </head>
 <body>
 
